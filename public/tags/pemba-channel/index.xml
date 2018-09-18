@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pemba Channel on Masumbuko Semba</title>
+    <link>/tags/pemba-channel/</link>
+    <description>Recent content in Pemba Channel on Masumbuko Semba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Semba&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/pemba-channel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sustainable Oceans, Livelihoods and food Security Through Increased Capacity in Ecosystem research in the Western Indian Ocean</title>
+      <link>/project/estuarize_wio/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/project/estuarize_wio/</guid>
+      <description>Over 100 million people in the Western Indian Ocean (WIO) region live within 100km of the coast, with over 1 million working in the fisheries sector. The WIO is highly dependent on the ocean for economic stability, food security, and social cohesion. In recent years the region has seen dramatic and often poorly understood reductions in key fisheries, due to the combined effects of climate change, natural ecosystem variability, overfishing and degradation of key marine habitats.</description>
+    </item>
+    
+  </channel>
+</rss>

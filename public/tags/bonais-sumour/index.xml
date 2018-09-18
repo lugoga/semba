@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> Bonais Sumour on Masumbuko Semba</title>
+    <link>/tags/bonais-sumour/</link>
+    <description>Recent content in  Bonais Sumour on Masumbuko Semba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Semba&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/bonais-sumour/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estuarize-WIO</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>/project/deep-learning/</guid>
+      <description>A socio­ecological assessment of fisheries in three estuarine systems of the SW Indian Ocean&amp;mdash; The Rufiji Delta in Tanzania, The Tana Delta in Kenya and the Bonus samoir in Mozambique. The project aspire to identifying essential links for improved governance. The project aims to address issues including
+ Develop a common understanding of available information on estuarine ecology and biophysical variability in 3 estuaries Identify and describe natural resource use by people living around estuaries Investigate socio-ecological linkages and feedback systems related to fisheries Construct models to simulate the outcomes of change, incl.</description>
+    </item>
+    
+  </channel>
+</rss>
